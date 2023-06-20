@@ -1,0 +1,186 @@
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;  
+ }
+ body h2 {
+     font-size: 55px; 
+     margin-left: 8%;
+     Font-style: 'semi bold';
+}
+ a {
+   text-decoration: none;
+   color: #000000;
+ }
+ .nav-item {
+     font-size: 17px;
+     margin-right: 25px;
+ }
+ .img-navbar {
+     width: 50px; 
+     height: 50px; 
+     margin-left: 40px; 
+     margin: 1px; 
+     padding: 0px;
+     margin-top: -10px;   
+ }
+ .d-flex .container-fluid {
+    position: absolute; 
+    margin-left: 85px;
+ }
+ .tampilan .logokecil {
+    width: 60px;
+    position: absolute; 
+    border-radius: 30px; 
+    margin-left: 84%;
+    margin-top: -30px;
+ }
+ .tampilan .cardd {
+    display: flex;
+    align-items: center;
+    padding: 16px 15px;
+    width: 147px;
+    height: 55px;
+    background-color: #ffff;
+    box-shadow: 1px 8px 58px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.tampilan .cardd-icon {
+   margin-right: 9px;
+   height: 30px;
+   width: 30px;
+}
+.tampilan p {
+    margin-left: 8%;
+    font-size: 20px;
+    margin-top: 7%;
+    color: #B2B2B2;
+}
+.card-progress-bar {
+    max-width: 65rem; 
+    margin-top: 80px;
+    margin-left: 8%;
+    box-shadow: 1px 8px 58px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+.card-progress-bar p {
+    margin-top: 10px;
+}
+.prog-donatur {
+    background-color: #1F3984; 
+    height: 50px; 
+    display: jutify; 
+    margin-top: 30px;
+}
+.img-manfaat {
+    max-width: 350px; 
+    float: right; 
+    margin-right: 150px; 
+    border-radius: 20px; 
+    height: 725px;
+}
+ /* button {
+     color: #000000;
+     margin-left: 90px;
+     margin-top: 50px;
+ } */
+ .img-mimbar {
+     width: 300px;
+     height: 330px;
+     float: right;
+     margin-right: 10%;
+     border-radius: 10px;
+ } 
+ .header {
+    margin-top: 20px; 
+    margin-left: 20px
+ }
+ .icon-bc {
+    background:rgba(31, 57, 132, 0.15); 
+    height:60px; 
+    width:60px; 
+    border-radius:100px;
+ }
+ .data-donatur h1 {
+   font-size: 35px;
+ }
+ .manfaat p {
+     margin-left: 8%;
+     font-size: 20px;
+     color: #B2B2B2;
+ }  
+ .card2 {
+     display: flex;
+     font-size: 20px;
+     margin-bottom: 30px;
+ } 
+ .card3 {
+     display: flex;
+     font-size: 20px;
+ } 
+ .card4 {
+     display: flex;
+     font-size: 20px;
+ } 
+ .card5 {
+     display: flex;
+     font-size: 20px;
+ } 
+ .img-card {
+   height: 390px;
+   width: 290px;
+   border-radius: 15px;
+ }
+ span {
+   color: #1F3984;
+ }
+ .card-body p {
+   color: #B2B2B2;
+ }
+ .img p {
+   display: flex;
+ }
+ .table th {
+   background-color: #F9FAFB;
+ }
+ .card-beranda {
+    position: absolute;
+    right: 320px;
+    top: 220px;
+ }
+.footer-main {
+   background-color: #001E42;
+   padding: 24px 60px;
+   color: white
+}
+.footer-grid {
+   display: grid;
+   grid-template-columns: repeat(3, auto);
+   grid-template-rows: repeat(2, auto);
+   grid-gap: 10px;
+   margin: 0 auto;
+   max-width: 100%;
+   justify-items: center;
+}
+.footer-grid p {
+   margin: 10px 0;
+}
+.footer3 input{
+ border: none;
+ width: 250px;
+ height: 40px;
+ display: block;
+ padding-left: 20px;
+ margin: 14px 0;
+ border-radius: 5px;
+ text-align: left;
+}
+.footer3 .inputPesan {
+ height: 143px;
+}
+.footer3 button {
+ width: 80px;
+ height: 43px;
+ float: right;
+ background-color: #FFF500;
+ color: #1F3984;
+ border-radius: 10px;
+}
