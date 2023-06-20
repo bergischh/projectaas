@@ -603,7 +603,7 @@ if (isset($_POST['check'])) {
       </div>
   </footer>
 </div>
-<div><center>Copyright © 2023 - SMK Wikrama Bogor. All Right Reserved.</center></div>
+<div style="color: #1F3984;"><center>Copyright © 2023 - SMK Wikrama Bogor. All Right Reserved.</center></div>
 </div>
 
 </body>
